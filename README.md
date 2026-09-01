@@ -1,4 +1,5 @@
 # Nova Mart Retail — Customer Churn & Retention Analysis (Power BI)
+<img width="1668" height="889" alt="image" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Effective-Customer-Acquisition-Examples.webp" />
 
 
 ---
