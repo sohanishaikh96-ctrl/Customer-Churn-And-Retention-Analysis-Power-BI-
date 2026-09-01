@@ -60,7 +60,7 @@ The dataset is a **synthetic customer analytics dataset** containing **10,000 cu
 <img width="1668" height="889" alt="Dashboard1" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20184955.png" />
 
 **Customer Analysis**
-<img width="1668" height="889" alt="Dashboard1" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185044.png" />
+<img width="1668" height="1000" alt="Dashboard1" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185044.png" />
 
 ---
 
@@ -159,9 +159,3 @@ The analysis shows that Nova Mart Retail's rising churn is driven less by servic
 - **Power Query** — Data cleaning and transformation
 
 
-
-
-## 👤 Author
-
-*[Your Name]*
-📧 *[Your email / LinkedIn]*
