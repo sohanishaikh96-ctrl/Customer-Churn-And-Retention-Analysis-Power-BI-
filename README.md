@@ -1,8 +1,5 @@
 # Nova Mart Retail — Customer Churn & Retention Analysis (Power BI)
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Tool](https://img.shields.io/badge/tool-Power%20BI-yellow)
-![Domain](https://img.shields.io/badge/domain-Customer%20Analytics-blue)
 
 ---
 
@@ -47,7 +44,7 @@ The dataset is a **synthetic customer analytics dataset** containing **10,000 cu
 | **Sales_Data** | Contains customer purchase and product-level sales information. |
 | **Customer_Interactions** | Contains customer service interactions such as complaints, support calls, response time, and resolution rate. |
 
-📎 **Dataset Link:** *[Add dataset link here]*
+📎 **Dataset Link:** *- <a href="[https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Customer_Churn_Retention_Analysis_10000%20(1).xlsx)">Dataset</a>*
 
 ---
 
