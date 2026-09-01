@@ -51,13 +51,16 @@ The dataset is a **synthetic customer analytics dataset** containing **10,000 cu
 ---
 
 ## 🔗 Data Model
-<img width="1668" height="889" alt="image" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185220.png" />
+<img width="1668" height="889" alt="Data Model" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185220.png" />
 
 ---
 
 ## 📊 Dashboard Pages
+**Churn Analysis**
+<img width="1668" height="889" alt="Dashboard1" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20184955.png" />
 
-
+**Customer Analysis**
+<img width="1668" height="889" alt="Dashboard1" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185044.png" />
 
 ---
 
@@ -149,37 +152,14 @@ Churn is not just a customer-count problem — it carries a direct, measurable r
 
 The analysis shows that Nova Mart Retail's rising churn is driven less by service failures and more by **external competitive pressure, pricing, and select product quality issues**. While overall churn stands at 16.40%, the greatest business risk lies in the large pool of medium-risk, high-value customers who have not yet churned but show warning signs. Addressing pricing competitiveness, acting proactively on disengaged (rather than only complaining) customers, and resolving product-specific quality issues in categories like Tablets, Jackets, and T-shirts should be the company's near-term priorities. With a targeted, segment-specific retention strategy — particularly for high-value, medium-risk, and West-region customers — Nova Mart Retail can meaningfully slow churn growth and protect its most valuable customer relationships.
 
-### 🔧 Suggested Additions
-You may want to include:
-- **Tools Used** section (Power BI, DAX, Power Query, data source format)
-- **How to Use This Repository** section (steps to open the `.pbix` file, refresh data, navigate pages)
-- **Folder Structure** section (e.g. `/data`, `/assets`, `/pbix`, `/docs`)
-- **Author/Contact** section
-- **License** section
-
 ---
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** — Data modeling, DAX measures, and dashboard visualization
 - **Power Query** — Data cleaning and transformation
-- *[Add any other tools used, e.g. Excel, SQL]*
 
----
 
-## 📁 Repository Structure
 
-```
-├── data/
-│   └── churn_dataset.csv          # or link to dataset source
-├── assets/
-│   ├── data_model.png
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
-├── NovaMart_Churn_Analysis.pbix
-└── README.md
-```
-
----
 
 ## 👤 Author
 
