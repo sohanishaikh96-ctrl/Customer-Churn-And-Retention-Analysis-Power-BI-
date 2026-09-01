@@ -51,30 +51,13 @@ The dataset is a **synthetic customer analytics dataset** containing **10,000 cu
 ---
 
 ## 🔗 Data Model
-
-The tables are connected through customer ID to form a relational data model, enabling analysis across demographics, sales, and service interactions.
-
-*[Insert Data Model screenshot here]*
-
-```
-📷 assets/data_model.png
-```
+<img width="1668" height="889" alt="image" src="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Screenshot%202026-09-01%20185220.png" />
 
 ---
 
 ## 📊 Dashboard Pages
 
-| Page | Description |
-|---|---|
-| **Page 1** | *[Add short description — e.g. Churn Overview: total customers, churn rate, yearly trend, risk levels]* |
-| **Page 2** | *[Add short description — e.g. Churn Deep Dive: churn by product, region, value segment, and reasons]* |
 
-*[Insert dashboard screenshots here]*
-
-```
-📷 assets/dashboard_page1.png
-📷 assets/dashboard_page2.png
-```
 
 ---
 
