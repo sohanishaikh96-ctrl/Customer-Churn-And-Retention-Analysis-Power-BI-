@@ -45,7 +45,7 @@ The dataset is a **synthetic customer analytics dataset** containing **10,000 cu
 | **Customer_Interactions** | Contains customer service interactions such as complaints, support calls, response time, and resolution rate. |
 
 📎 **Dataset Link:** 
-- <a href="https://github.com/sohanishaikh96-ctrl/HealthCare-Data-Analysis-Project/blob/main/healthcare_dataset.csv](https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Customer_Churn_Retention_Analysis_10000%20(1).xlsx)">Dataset</a>
+- <a href="https://github.com/sohanishaikh96-ctrl/Customer-Churn-And-Retention-Analysis-Power-BI-/blob/main/Customer_Churn_Retention_Analysis_10000%20(1).xlsx">Dataset</a>
 
 ---
 
